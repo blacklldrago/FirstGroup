@@ -5,25 +5,22 @@
     font-family: 'Poppins', sans-serif;
     color: #4B321D;
 }
-
+/* Muhammad S */
 .content1-SM{
     width: 100%;
-    
-
 }
 .navbar-SM{
     width: 100%;
-    height: 10vh;
-   
-
-display: flex;
-justify-content: space-around;
+    padding-left: 60px;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: space-around;
 }
 .project-SM ul{
     padding-right: 130px;
     padding-top: 25px;
     font-size: 20px;
-    gap: 15px;
+    gap: 40px;
     display: flex;
     list-style: none;
 
@@ -37,15 +34,98 @@ justify-content: space-around;
 .content2-SM h1{
     font-weight: 400;
     font-size: 70px;
-    text-align: left;
-    padding-left: 30px;
+    text-align: start;
+    padding-left: 60px;
     height: 40vh;
-   
+    width: 85%;
 }
 .content2-SM{
     padding-top: 50px;
-    width: 100%;
-    text-align: center;
+    text-align: start;
+    margin-bottom: 100px;
 }
+.content2-SM img{
+    padding-top: 60px;
+    padding-bottom: 80px;
+    width: 98%;
+    margin: auto;
+    margin-left: 15px;
+}
+.content2-SM button{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    margin-left: 60px;
+    color: #4B321D;
+    background: transparent;
+    border: none;
+    border: 2px solid #4B321D;
+    width: 162px;
+    height: 50px;
+}
+/* Muhammad S */
+
+
+
+
+
+
+/* MINE */
+.contant4-SR{
+    padding-top: 60px;
+    background-color: #4B321D;
+    width: 1300px;
+    height: 50vh;
+    margin: auto;
+    border-radius: 16px;
+    margin-bottom: 20px;
+}
+.contant4-SR h1{
+    
+    width: 90%;
+    margin: auto;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 100px;
+    color: #F1F1EB;
+    margin-bottom: 50px;
+}
+.contant4-SR p{
+    width: 90%;
+    margin: auto;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 36px;
+    color: #F1F1EB;
+}
+.contant5-SR{
+    padding-top: 60px;
+}
+.contant5-SR button{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    background: transparent;
+    border: none;
+    border: 2px solid #4B321D;
+    color: #4B321D;
+    width: 128px;
+    height: 50px;
+    margin-left: 75px;
+}
+.contant5-SR h1{
+    width: 90%;
+    margin: auto;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 100px;
+    color: #4B321D;
+    margin-bottom: 50px;
+
+}
+/* MINE */
+
+
+
 
 

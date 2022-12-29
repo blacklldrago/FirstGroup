@@ -10,3 +10,15 @@
     line-height: 100px;
     color: #F1F1EB;
 }
+.contant4-SR p{
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 36px;
+    color: #F1F1EB;
+}
+.contant4-SR{
+    background-color: #4B321D;
+    width: 99%;
+    margin: auto;
+    border-radius: 16px;
+}

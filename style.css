@@ -4,21 +4,42 @@
     padding: 0;
     font-family: 'Poppins', sans-serif;
 }
-.contant4-SR h1{
-    font-weight: 400;
-    font-size: 80px;
-    line-height: 100px;
-    color: #F1F1EB;
+footer{
+    display: flex;
+    width: 70%;
+    margin-left: 200px;
 }
-.contant4-SR p{
+.zf-head{
+    color: rgb(65, 65, 65);
     font-weight: 400;
-    font-size: 26px;
-    line-height: 36px;
-    color: #F1F1EB;
+    margin-left: 60px;
+    margin-top: 99px;
 }
-.contant4-SR{
-    background-color: #4B321D;
-    width: 99%;
-    margin: auto;
-    border-radius: 16px;
+.zf-para{
+    color: rgb(65, 65, 65);
+    margin-left: 60px;
+    font-size: 10px;
+}
+img{
+   width: 40px;
+   height: 40px;
+   margin-left: 60px;
+   margin-top: 40px;
+}
+.zf-firstlist{
+    margin-top: 99px;
+    margin-left: 350px;
+}
+.zf-list{
+    color: rgb(65, 65, 65);
+    margin-left: 60px;
+    font-size: 11px;
+}
+.zf-secondlist{
+    margin-top: 99px;
+    margin-left: 50px;
+}
+.zf-thirdlist{
+    margin-top: 99px;
+    margin-left: 40px;
 }
